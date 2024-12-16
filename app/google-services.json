@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594155690883",
+    "project_id": "my-fans1",
+    "storage_bucket": "my-fans1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594155690883:android:adcb20fb4eee07284374b6",
+        "android_client_info": {
+          "package_name": "com.example.GymManagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgbOYHMBhWipBZHa_pu3ck02mnfH4iDrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
